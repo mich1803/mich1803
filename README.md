@@ -9,7 +9,11 @@
 
 ## About Me
 
-Passionate about innovation and driven to excel, I am a student of Mathematical Sciences and Artificial Intelligence at [SMIA](https://www.mat.uniroma1.it/didattica/corsi-di-laurea/scienze-matematiche-intelligenza-artificiale-triennale). I am deeply interested in cutting-edge projects that push the boundaries of technology. With a commitment to giving my best, I leverage my skills to contribute effectively to every endeavor. Additionally, my background in graphic design helps me present projects in a visually appealing manner.
+Currently a student pursuing a degree in Mathematical Sciences and Artificial Intelligence in Rome. 
+I'm deeply fascinated by the potential of technology and science, and I enjoy exploring innovative projects that expand my horizons.
+Committed to making meaningful contributions to every task undertaken, I utilize my graphic design skills to infuse creativity. 
+Beyond academic endeavors, I find enjoyment in listening to music and playing basketball.
+Feel free to reach out for further discussions or potential collaborations!
 
 ---
 
