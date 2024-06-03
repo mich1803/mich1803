@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Michele
-- 💻 Maths applied to AI student
+- 💻 SMIA student
 - ✍🏻 Graphic Designer
 
 <!---
