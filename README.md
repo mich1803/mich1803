@@ -13,7 +13,7 @@
 
 🎨 Committed to making meaningful contributions to every task undertaken, I like to use my graphic design skills to add a creative flair too. 
 
-⛹️ Beyond academic endeavors, I find enjoyment in listening to music and playing basketball.
+Beyond academic endeavors, you’ll catch me and ballin’ on the court ⛹️ or vibing to music 🎵.
 
 Feel free to reach out for further discussions or potential collaborations!
 
