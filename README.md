@@ -1,5 +1,5 @@
-## 👋 Hi, I’m Michele
 ---
+## 👋 Hi, I’m Michele
 
 - 💻 [SMIA](https://www.mat.uniroma1.it/didattica/corsi-di-laurea/scienze-matematiche-intelligenza-artificiale-triennale) student
 - ✍🏻 Graphic Designer
