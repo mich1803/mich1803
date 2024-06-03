@@ -11,7 +11,7 @@
 
 🪐 I'm deeply fascinated by the potential of technology and science, and I enjoy exploring innovative projects that expand my horizons.
 
-🎨 Committed to making meaningful contributions to every task undertaken, I utilize my graphic design skills to infuse creativity. 
+🎨 Committed to making meaningful contributions to every task undertaken, I utilize my graphic design skills to add a creative flair too. 
 
 ⛹️ Beyond academic endeavors, I find enjoyment in listening to music and playing basketball.
 
