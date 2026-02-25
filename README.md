@@ -7,11 +7,11 @@
 
 ## 🚀 About Me
 
-I am a technically driven researcher and developer with a strong interest in **machine learning** and **applied mathematics**.
+I am a technically driven student researcher with a strong interest in machine learning and applied mathematics.
 
-I enjoy building **practical experimental projects** that connect theory with real-world implementations, while continuously expanding my scientific and engineering skill set.
+I enjoy building practical experimental projects that connect theory with real-world implementations, while continuously expanding my scientific and engineering skill set.
 
-Outside of research and coding, I’m passionate about **basketball**, **music**, and creative digital design.
+Outside of research and coding, I’m passionate about basketball, music, and creative digital design.
 
 ---
 
