@@ -13,6 +13,8 @@ I enjoy building practical experimental projects that connect theory with real-w
 
 Outside of research and coding, I’m passionate about basketball, music, and creative digital design.
 
+Portfolio Website: <a href="https://mich1803.github.io/XMB-portfolio/">https://mich1803.github.io/XMB-portfolio/</a>
+
 ---
 
 ## 🔬 Research & Academic Profiles
