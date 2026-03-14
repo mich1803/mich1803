@@ -13,7 +13,22 @@ I enjoy building practical experimental projects that connect theory with real-w
 
 Outside of research and coding, I’m passionate about basketball, music, and creative digital design.
 
-Portfolio Website: <a href="https://mich1803.github.io/XMB-portfolio/">https://mich1803.github.io/XMB-portfolio/</a>
+<table>
+<tr>
+<td width="220">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Chimpanzee_seated_at_typewriter.jpg/500px-Chimpanzee_seated_at_typewriter.jpg" width="200">
+
+</td>
+
+<td style="background:#cfe8ff; padding:12px; font-size:16px;">
+
+This user knows that <b><i>real monkeys</i></b> lack the [randomness](https://en.wikipedia.org/wiki/Randomness) required  
+to [type Shakespeare](https://en.wikipedia.org/wiki/Infinite_monkey_theorem), but still understands the concept of [infinity](https://en.wikipedia.org/wiki/Infinity).
+
+</td>
+</tr>
+</table>
 
 ---
 
