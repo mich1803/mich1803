@@ -45,19 +45,24 @@ Always open to meaningful collaborations and innovative ideas.
 
 ---
 
-<table>
+<table width="100%" style="border:2px solid black; border-collapse:collapse;">
 <tr>
-<td width="220">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Chimpanzee_seated_at_typewriter.jpg/500px-Chimpanzee_seated_at_typewriter.jpg" width="200">
+<td width="20%" align="center" style="border-right:2px solid black; padding:10px;">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Chimpanzee_seated_at_typewriter.jpg/500px-Chimpanzee_seated_at_typewriter.jpg" style="width:100%; max-width:180px;">
+
+</td>
+
+<td width="80%" style="background:#cfe8ff; font-size:16px;">
+
+<div style="margin:0 10%; line-height:1.4;">
+
+This user knows that <b><i>real monkeys</i></b> lack the  <a href="https://en.wikipedia.org/wiki/Randomness">randomness</a> required  to <a href="https://en.wikipedia.org/wiki/Infinite_monkey_theorem">type Shakespeare</a>,  but still understands the concept of  <a href="https://en.wikipedia.org/wiki/Infinity">infinity</a>.
+
+</div>
 
 </td>
 
-<td style="background:#cfe8ff; padding:12px; font-size:16px;">
-
-This user knows that <b><i>real monkeys</i></b> lack the [randomness](https://en.wikipedia.org/wiki/Randomness) required  
-to [type Shakespeare](https://en.wikipedia.org/wiki/Infinite_monkey_theorem), but still understands the concept of [infinity](https://en.wikipedia.org/wiki/Infinity).
-
-</td>
 </tr>
 </table>
